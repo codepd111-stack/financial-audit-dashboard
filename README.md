@@ -6,9 +6,9 @@ I built this dashboard to explore financial performance data across 6 countries 
 
 ## Screenshots
 
-![Executive Summary](screenshots/executive_summary.png)
-![Regional Analysis](screenshots/regional_analysis.png)
-![Product Analysis](screenshots/product_analysis.png)
+![Executive Summary](screenshots/executive_summary.jpg)
+![Regional Analysis](screenshots/regional_analysis.jpg)
+![Product Analysis](screenshots/product_analysis.jpg)
 
 ---
 
